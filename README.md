@@ -4,7 +4,7 @@ This mini-project is a **schematic / parametric** visualization toolkit for expl
 
 It is **not** intended to be a photorealistic model. The goal is to make it easy to vary parameters and visually compare architectural ideas across length scales (macro lattice → micro spicules → nano silica).
 
-## What’s new (based on the PDFs you uploaded)
+## What’s new 
 
 The algorithm library (`glass_sponge_algorithms.py`) and the interactive notebook were updated to support motifs and parameter trends described in the papers, including:
 
