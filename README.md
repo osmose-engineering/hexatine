@@ -1,4 +1,4 @@
-# Glass Sponge Structures Visualizer (papers-integrated)
+# Glass Sponge Structures Visualizer 
 
 This mini-project is a **schematic / parametric** visualization toolkit for exploring structural motifs described in classic papers on hexactinellid (“glass”) sponges (especially *Euplectella aspergillum*).
 
